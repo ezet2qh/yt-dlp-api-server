@@ -1,7 +1,7 @@
 application: yt-dlp
 
 version: 0-3
-runtime: python27
+runtime: python311
 api_version: 1
 threadsafe: no
 
